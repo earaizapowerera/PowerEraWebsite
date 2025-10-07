@@ -58,7 +58,7 @@ IMAGES_PROMPTS = {
     # Actif
     "actif-hero": {
         "path": "products/actif-hero.png",
-        "prompt": """Professional business dashboard on large monitor with dark theme, asset management graphs and inventory displays, modern corporate office environment, data visualization with charts and tables, professional photography, clean and organized, business intelligence and analytics theme, blue and cyan color accents, dark background, glowing UI elements""",
+        "prompt": """Professional corporate fixed assets in modern warehouse: industrial machinery, company vehicles (sedans and trucks), desktop computers and monitors, office furniture and equipment, manufacturing machines, warehouse shelving systems. Organized business environment, professional photography style, blue and cyan lighting accents, clean corporate aesthetic, asset management theme, photorealistic, high quality, depth of field""",
         "size": "1792x1024",
         "quality": "hd"
     },
@@ -66,7 +66,7 @@ IMAGES_PROMPTS = {
     # Waykee
     "waykee-hero": {
         "path": "products/waykee-hero.png",
-        "prompt": """Modern team collaboration platform interface on multiple screens with dark theme, chat conversations, email threads, and file sharing visible, professional workspace with laptop and external monitors, productivity and teamwork theme, clean UI design, purple and pink ambient lighting, corporate technology photography, dark aesthetic""",
+        "prompt": """Modern smartphone and laptop displaying unified workspace interface with dark theme: chat bubbles and instant messages (WhatsApp-style), email inbox with threads, kanban task board with cards, project timeline. Clean UI with purple and pink gradient accents, professional product photography, multiple devices showing synchronized content, collaboration and productivity theme, futuristic dark aesthetic, high quality""",
         "size": "1792x1024",
         "quality": "hd"
     },
