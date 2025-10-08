@@ -1,0 +1,15 @@
+# PowerEra - Robots.txt
+User-agent: *
+Allow: /
+Allow: /products/
+Allow: /assets/
+
+# Disallow admin or private areas (if any in future)
+Disallow: /admin/
+Disallow: /.git/
+
+# Sitemap location
+Sitemap: https://www.powerera.com/sitemap.xml
+
+# Crawl-delay (optional, helps with server load)
+Crawl-delay: 1

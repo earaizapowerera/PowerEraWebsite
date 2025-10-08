@@ -66,7 +66,7 @@ IMAGES_PROMPTS = {
     # Waykee
     "waykee-hero": {
         "path": "products/waykee-hero.png",
-        "prompt": """Modern smartphone and laptop displaying unified workspace interface with dark theme: chat bubbles and instant messages (WhatsApp-style), email inbox with threads, kanban task board with cards, project timeline. Clean UI with purple and pink gradient accents, professional product photography, multiple devices showing synchronized content, collaboration and productivity theme, futuristic dark aesthetic, high quality""",
+        "prompt": """Modern desktop workspace showing collaboration software interface: laptop screen displaying chat conversations with message bubbles (WhatsApp-style), split view showing email inbox on left and kanban task board on right, smartphone beside laptop showing same chat synchronized, clean modern UI with purple gradient accents, professional product photography, organized workspace aesthetic, collaboration and teamwork theme, realistic devices, natural lighting, depth of field""",
         "size": "1792x1024",
         "quality": "hd"
     },
